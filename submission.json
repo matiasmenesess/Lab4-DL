@@ -1,0 +1,454 @@
+[
+    {
+        "assembly_task_id": "task_f6c3f52f55",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node red orange)",
+            "(mount_node blue red)",
+            "(mount_node yellow blue)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_07a18910c7",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node yellow orange)",
+            "(mount_node orange blue)",
+            "(mount_node blue red)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_cbe2649f6b",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node blue red)",
+            "(mount_node yellow blue)",
+            "(mount_node orange yellow)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_4f181b1e7e",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node white orange)",
+            "(mount_node blue orange)",
+            "(mount_node red white)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_9f39e7f413",
+        "complexity_level": 4,
+        "target_action_sequence": [
+            "(mount_node blue orange)",
+            "(mount_node orange yellow)",
+            "(mount_node yellow red)",
+            "(mount_node white blue)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_a51e02706c",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(mount_node blue red)",
+            "(mount_node orange blue)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_8a763f838b",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(overcome a d)",
+            "(attack d)",
+            "(overcome d b)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_4d92dfa4d1",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node red blue)",
+            "(mount_node blue orange)",
+            "(mount_node yellow red)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_19c005f4fa",
+        "complexity_level": 4,
+        "target_action_sequence": [
+            "(overcome a e)",
+            "(overcome c b)",
+            "(overcome d a)",
+            "(overcome e c)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_98c536f455",
+        "complexity_level": 4,
+        "target_action_sequence": [
+            "(overcome a e)",
+            "(overcome b c)",
+            "(overcome c d)",
+            "(overcome d a)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_b516b29d5b",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(mount_node blue red)",
+            "(mount_node orange red)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_2833f3d973",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(mount_node red blue)",
+            "(mount_node orange red)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_a2e1da433c",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node yellow blue)",
+            "(mount_node orange red)",
+            "(mount_node red yellow)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_b05ad833d2",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(mount_node blue orange)",
+            "(mount_node orange yellow)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_a90c8a54bb",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node blue orange)",
+            "(mount_node orange red)",
+            "(mount_node yellow blue)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_dae8652991",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(overcome a d)",
+            "(overcome b a)",
+            "(overcome d c)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_07201ae0aa",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(mount_node blue orange)",
+            "(mount_node orange red)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_37dd853373",
+        "complexity_level": 4,
+        "target_action_sequence": [
+            "(overcome c a)",
+            "(overcome d b)",
+            "(attack a)",
+            "(overcome a d)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_784946134b",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node blue yellow)",
+            "(mount_node orange blue)",
+            "(mount_node red orange)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_32d7e53ce2",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(overcome a d)",
+            "(overcome c a)",
+            "(overcome d b)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_9b148ab9d7",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node blue white)",
+            "(mount_node white orange)",
+            "(mount_node yellow blue)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_6511a2f246",
+        "complexity_level": 4,
+        "target_action_sequence": [
+            "(mount_node yellow blue)",
+            "(release_payload yellow)",
+            "(engage_payload blue)",
+            "(mount_node blue red)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_2cdb57bdd6",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(overcome a d)",
+            "(attack d)",
+            "(overcome d b)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_d9cb8a7219",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(overcome a c)",
+            "(overcome d a)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_e8b4a49b09",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node yellow blue)",
+            "(mount_node orange yellow)",
+            "(mount_node red white)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_380244626c",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(overcome b c)",
+            "(overcome a b)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_0c4a4b37d9",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(overcome a d)",
+            "(overcome b a)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_7e684c4e53",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(engage_payload red)",
+            "(mount_node red blue)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_251314c577",
+        "complexity_level": 6,
+        "target_action_sequence": [
+            "(feast b d)",
+            "(succumb b)",
+            "(attack d)",
+            "(overcome d a)",
+            "(attack c)",
+            "(overcome c a)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_c24d1608bd",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(mount_node red orange)",
+            "(mount_node yellow blue)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_2661dd18d3",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node red yellow)",
+            "(mount_node blue white)",
+            "(mount_node white red)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_a0a699d182",
+        "complexity_level": 6,
+        "target_action_sequence": [
+            "(engage_payload orange)",
+            "(mount_node orange red)",
+            "(unmount_node orange blue)",
+            "(release_payload orange)",
+            "(engage_payload red)",
+            "(mount_node red yellow)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_4df345721b",
+        "complexity_level": 4,
+        "target_action_sequence": [
+            "(mount_node blue orange)",
+            "(mount_node red yellow)",
+            "(unmount_node yellow red)",
+            "(unmount_node blue orange)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_6d18e048c6",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(overcome a d)",
+            "(overcome d c)",
+            "(overcome c a)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_bd47b6bc0e",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(mount_node blue red)",
+            "(mount_node yellow orange)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_faa891c9fb",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node blue red)",
+            "(mount_node red yellow)",
+            "(mount_node yellow orange)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_9767ecb84d",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(overcome a d)",
+            "(overcome c a)",
+            "(overcome d b)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_382b33a282",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(mount_node blue orange)",
+            "(mount_node orange yellow)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_8d7fc8623b",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node red blue)",
+            "(mount_node blue yellow)",
+            "(mount_node orange red)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_0eb88038e5",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(overcome a d)",
+            "(overcome b a)",
+            "(overcome c b)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_d3fb474049",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node red blue)",
+            "(mount_node blue orange)",
+            "(mount_node orange yellow)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_7d66e7541e",
+        "complexity_level": 5,
+        "target_action_sequence": [
+            "(overcome a c)",
+            "(attack e)",
+            "(overcome e d)",
+            "(attack d)",
+            "(overcome d a)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_7564916d70",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node red blue)",
+            "(mount_node yellow orange)",
+            "(mount_node blue orange)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_60d8fa6441",
+        "complexity_level": 6,
+        "target_action_sequence": [
+            "(attack c)",
+            "(overcome c a)",
+            "(attack d)",
+            "(overcome d b)",
+            "(attack b)",
+            "(overcome b a)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_7c8f882efa",
+        "complexity_level": 4,
+        "target_action_sequence": [
+            "(feast a d)",
+            "(succumb a)",
+            "(attack c)",
+            "(overcome c a)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_182c209cb4",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(mount_node red yellow)",
+            "(mount_node yellow blue)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_8631399361",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(overcome a c)",
+            "(overcome b d)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_ff22fcbdb7",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(mount_node blue red)",
+            "(mount_node yellow orange)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_9091b8dd04",
+        "complexity_level": 2,
+        "target_action_sequence": [
+            "(overcome a d)",
+            "(overcome e b)"
+        ]
+    },
+    {
+        "assembly_task_id": "task_fd0b531f2d",
+        "complexity_level": 3,
+        "target_action_sequence": [
+            "(mount_node white blue)",
+            "(mount_node red white)",
+            "(mount_node yellow orange)"
+        ]
+    }
+]
